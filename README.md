@@ -1,0 +1,1 @@
+# jbwapi-scala-template
