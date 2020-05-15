@@ -10,5 +10,5 @@ resolvers ++= Seq(
 )
 
 libraryDependencies ++= Seq(
-  "com.github.JavaBWAPI" % "JBWAPI" % "1.2",
+  "com.github.JavaBWAPI" % "JBWAPI" % "1.4",
 )
